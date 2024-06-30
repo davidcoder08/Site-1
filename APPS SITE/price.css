@@ -1,0 +1,267 @@
+.card1{
+    height: 100px;
+    width: 900px;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: flex;
+    top: 125px;
+}
+
+.card1 li{
+    position: relative;
+    font-size: 30px;
+    color: #ffffff;
+    right: 0;
+    left: -450px;
+    margin: auto;
+}
+
+.card2{
+    height: 100px;
+    width: 900px;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: flex;
+    top: 150px;
+}
+
+.card2 li{
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.card3{
+    height: 100px;
+    width: 900px;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: flex;
+    top: 175px;
+}
+
+.card3 li{
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.card4{
+    height: 100px;
+    width: 900px;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: flex;
+    top: 200px;
+}
+
+.card4 li{
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.card5{
+    height: 100px;
+    width: 900px;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: flex;
+    top: 225px;
+}
+
+.card5 li{
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.background img{
+    width: 800px;
+    transition: 0.1s;
+}
+
+.background img:hover{
+    transform: scale(0.98);
+}
+
+
+.logo_img{
+    position: absolute;
+    right: 750px;
+    padding-right: 20px;
+    left: -275px;
+    top: 20px;
+    margin: auto;
+    border-right: 2px solid #ffffff;
+}
+
+.logo_img2{
+    position: absolute;
+    right: 750px;
+    padding-right: 20px;
+    left: -275px;
+    top: 20px;
+    margin: auto;
+    border-right: 2px solid #ffffff;
+}
+
+.logo_img3{
+    position: absolute;
+    right: 750px;
+    padding-right: 20px;
+    left: -275px;
+    top: 20px;
+    margin: auto;
+    border-right: 2px solid #ffffff;
+}
+
+.logo_img4{
+    position: absolute;
+    right: 750px;
+    padding-right: 20px;
+    left: -275px;
+    top: 20px;
+    margin: auto;
+    border-right: 2px solid #ffffff;
+}
+
+.logo_img5{
+    position: absolute;
+    right: 750px;
+    padding-right: 20px;
+    left: -275px;
+    top: 40px;
+    margin: auto;
+    border-right: 2px solid #ffffff;
+}
+
+.background_img{
+    position: relative;
+    height: 125px;
+    width: 1200px;
+    right: 0px;
+    left: -150px;
+    margin: auto;
+}
+
+.background_img2{
+    position: relative;
+    height: 125px;
+    width: 1200px;
+    right: 0px;
+    left: -150px;
+    margin: auto;
+}
+
+.background_img3{
+    position: relative;
+    height: 125px;
+    width: 1200px;
+    right: 0px;
+    left: -150px;
+    margin: auto;
+}
+
+.background_img4{
+    position: relative;
+    height: 125px;
+    width: 1200px;
+    right: 0px;
+    left: -150px;
+    margin: auto;
+}
+
+.background_img5{
+    position: relative;
+    height: 125px;
+    width: 1200px;
+    right: 0px;
+    left: -150px;
+    margin: auto;
+}
+
+
+.letter_img{
+    position: absolute;
+    right: 525px;
+    padding-right: 20px;
+    left: -150px;
+    top: 25px;
+    margin: auto;
+}
+
+.letter_img2{
+    position: absolute;
+    right: 525px;
+    padding-right: 20px;
+    left: -150px;
+    bottom: 15px;
+    margin: auto;
+}
+
+.letter_img3{
+    position: absolute;
+    right: 525px;
+    padding-right: 20px;
+    left: -150px;
+    top: -15px;
+    margin: auto;
+}
+
+.letter_img4{
+    position: absolute;
+    right: 525px;
+    padding-right: 20px;
+    left: -150px;
+    top: -15px;
+    margin: auto;
+}
+
+.letter_img5{
+    position: absolute;
+    right: 525px;
+    padding-right: 20px;
+    left: -150px;
+    top: -15px;
+    margin: auto;
+}
+
+.letter_img2{
+    position: absolute;
+    right: 525px;
+    padding-right: 20px;
+    left: -150px;
+    top: 40px;
+    margin: auto;
+}
+
+.top{
+    position: absolute;
+    left: 100px;
+    top: 140px;
+    margin: auto;
+}
+
+.top ul li{
+    padding-bottom: 40px;
+    font-size: 70px;
+}
+
+.price{
+    position: absolute;
+    left: 1200px;
+    top: 490px;
+    transition: 0.25s;
+}
+
+.price:hover{
+    transform: scale(0.98);
+}
+
